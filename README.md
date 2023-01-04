@@ -1,5 +1,5 @@
 Hi there 👋
-🔭 I’m currently working as Full Stack Developer.
+- 🔭 I’m currently working as Full Stack Developer ...
 <!--
 **praveen536/praveen536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
