@@ -30,7 +30,7 @@
 
 </a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=material-palenight&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=praveen536&count_private=true&theme=material-palenight&layout=compact)
 
 <br>
 <br>
