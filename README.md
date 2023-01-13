@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Sahu</h1>
 <!-- <h3 align="center">A passionate Full Stack Developer from Raipur.</h3> -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=A+passionate+Full+Stack+Developer.&hearts;++;Self-taught+Front-End+Developer,;Master+Computer+Application+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7903B&center=true&vCenter=true&width=435&lines=A+passionate+Full+Stack+Developer;Self-taught+Web+Developer;I+have+completed+Master+Computer+Application;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen536&label=Profile%20views&color=0e75b6&style=flat" alt="praveen536" /> </p>
