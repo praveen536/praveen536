@@ -26,7 +26,7 @@
   <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=praveen536&show_icons=true&count_private=true&theme=material-palenight&layout=compact" alt="praveen536"  width="350"/>
   <img align="center" src="https://streak-stats.demolab.com/?user=praveen536&theme=dark" alt="praveen536" width="350"/>
   
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </a>
 </div>
