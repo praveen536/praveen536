@@ -30,7 +30,7 @@
 
 </a>
 </div>
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&langs_count=8&theme=material-palenight](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&theme=material-palenight&layout=compact&hide=Less,scss,Shell,Handlebars&langs_count=10&count_private=true&include_all_commits=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&theme=material-palenight&layout=compact&hide=Less,scss,Shell,Handlebars&langs_count=10&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <br>
