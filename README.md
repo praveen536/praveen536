@@ -30,11 +30,11 @@
 
 </a>
 </div>
+<br>
+<br>
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&theme=material-palenight&layout=compact&hide=Less,scss,Shell,Handlebars&langs_count=10&count_private=true&include_all_commits=true" alt="praveen536" width="350"/>
 </div>
-<br>
-<br>
 <br>
 
 -----
