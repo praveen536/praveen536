@@ -23,8 +23,8 @@
 
 <a href="https://github.com/praveen536/">
   
-  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=praveen536&&show_icons=true&theme=dark" alt="praveen536"  width="450"/>
-  <img align="center" src="https://streak-stats.demolab.com/?user=praveen536&theme=dark" alt="praveen536" width="450"/>
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=praveen536&&show_icons=true&theme=dark" alt="praveen536"  width="350"/>
+  <img align="center" src="https://streak-stats.demolab.com/?user=praveen536&theme=dark" alt="praveen536" width="350"/>
 
 </a>
 </div>
