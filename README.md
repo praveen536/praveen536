@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=praveen536&&show_icons=true&theme=dark" alt="praveen536" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen536&show_icons=true&locale=en" alt="praveen536" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen536&" alt="praveen536" /></p>
