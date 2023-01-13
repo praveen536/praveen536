@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Sahu</h1>
 <!-- <h3 align="center">A passionate Full Stack Developer from Raipur.</h3> -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7903B&center=true&vCenter=true&width=435&lines=A+passionate+Full+Stack+Developer;Self-taught+Web+Developer;I+have+completed+Master+Computer+Application;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7903B&center=true&vCenter=true&width=435&lines=A+passionate+Full+Stack+Developer;Self-taught+Web+Developer;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen536&label=Profile%20views&color=0e75b6&style=flat" alt="praveen536" /> </p>
@@ -30,7 +30,6 @@
 
 </a>
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536)](https://github.com/anuraghazra/github-readme-stats)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&theme=material-palenight&layout=compact&hide=Less,scss,Shell,Handlebars&langs_count=10&count_private=true&include_all_commits=true" alt="praveen536" width="350"/>
 <br>
 <br>
