@@ -30,7 +30,7 @@
 
 </a>
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <br>
