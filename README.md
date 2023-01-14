@@ -36,5 +36,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&theme=material-palenight&layout=compact&hide=Less,scss,Shell,Handlebars&langs_count=10&count_private=true&include_all_commits=true" alt="praveen536" width="350"/>
 </div>
 <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="praveen536's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=praveen536&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 -----
