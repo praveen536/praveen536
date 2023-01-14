@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen536&label=Profile%20views&color=0e75b6&style=flat" alt="praveen536" /> </p>
 
-- 💬 Ask me about **php, node, angularjs**
+- 💬 Ask me about **codeigniter, node, angularjs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
