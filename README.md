@@ -4,8 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7903B&center=true&vCenter=true&width=435&lines=A+passionate+Full+Stack+Developer;Self-taught+Web+Developer;Active+Learner%2FResearcher;Love+to+learn+new+stuffs..%3C3" alt="Typing SVG" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen536&label=Profile%20views&color=0e75b6&style=flat" alt="praveen536" /> </p>
-
 - 💬 Ask me about **codeigniter, node, angularjs**
 
 <h3 align="left">Connect with me:</h3>
@@ -36,6 +34,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen536&theme=material-palenight&layout=compact&hide=Less,scss,Shell,Handlebars&langs_count=10&count_private=true&include_all_commits=true" alt="praveen536" width="350"/>
 </div>
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen536&label=Profile%20views&color=0e75b6&style=flat" alt="praveen536" /> </p>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
